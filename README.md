@@ -1,4 +1,10 @@
-<h1 align="center">Hi 👋, I'm Mehak</h1>
+<h1 align="left">Hi, I'm Mehak 🦆</h2>
+- 🌱 I’m currently **a computer engineering student**
+
+- 🔭 I am interested **in NLPs, robotics and embedded systems design**
+
+- ⚡ I’m always looking to **learn and grow in new technical areas**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
