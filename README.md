@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Mehak 🦆!
+# Hi there 👋, I'm Mehak!
 
 - 🎓 **Computer Engineering Student (Co-op)** at McMaster University 
 - 🔭 I'm interested in **NLPs, robotics and embedded systems design**
