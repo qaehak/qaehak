@@ -1,6 +1,6 @@
 <h2 align="left">Hi, I'm Mehak 🦆</h2>
 
-- 🌱 I'm currently a **computer engineering student**
+- 🌱 I am a **computer engineering student**
 
 - 🔭 I'm interested in **NLPs, robotics and embedded systems design**
 
