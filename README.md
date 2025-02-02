@@ -7,7 +7,6 @@
 ## 🛠️ Tech Skills
 - **Programming Languages**: C/C++, Java, Python, MATLAB, Verilog HDL/VHDL, Assembly, HTML/CSS, JavaScript
 - **Tools & Software**: Git, GitHub, VS Code, Android Studio, Jupyter Notebook, Google Colab, Eclipse IDE, Cadence PSpice, Quartus Prime FPGA Design Software 
-- **Other Skills**: Microsoft Office Suite, Google Workspace
 
 ## 📫 Let's Connect!
 - **LinkedIn**: [Mehak Shah](https://www.linkedin.com/in/mehak-k-shah/)  
