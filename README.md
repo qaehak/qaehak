@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Mehak!
 
 - 🎓 **Computer Engineering Student (Co-op)** at McMaster University 
-- 🔭 I'm interested in **NLPs, robotics and embedded systems design**
+- 🔭 I'm interested in **NLP, robotics and embedded systems design**
 - 💼 Currently seeking a **4-month co-op position starting in May 2025**
 
 ## 🛠️ Tech Skills
