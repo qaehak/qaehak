@@ -7,11 +7,11 @@
 ## 🛠️ Tech Skills
 - **Programming Languages**: C/C++, Java, Python, MATLAB, Verilog HDL/VHDL, Assembly, HTML/CSS, JavaScript
 - **Tools & Software**: Git, GitHub, VS Code, Android Studio, Jupyter Notebook, Google Colab, Eclipse IDE, Cadence PSpice, Quartus Prime FPGA Design Software 
-
+<!--
 ## 📫 Let's Connect!
 - **LinkedIn**: [Mehak Shah](https://www.linkedin.com/in/mehak-k-shah/)  
 
-<!--
+
 **qaehak/qaehak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
