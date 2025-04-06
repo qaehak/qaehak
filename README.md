@@ -2,7 +2,7 @@
 
 - 🎓 **Computer Engineering (Co-op) Student** at McMaster University 
 - 🔭 I'm interested in **NLP, robotics and embedded systems design**
-- 💼 Currently seeking a **4-month co-op position starting in May 2025**
+<!-- - 💼 Currently seeking a **4-month co-op position starting in May 2025**-->
 
 ## 🛠️ Tech Skills
 - **Programming Languages**: C/C++, Java, Python, MATLAB, Verilog HDL/VHDL, Assembly, HTML/CSS, JavaScript
